@@ -4,13 +4,15 @@
     "videos": [
         {
             "author": "OneHamber",
-            "file": "2023.6.26-1-1.mp4",
-            "MD5": "94ca86863e538c14dbf3509d3df55f63"
+            "file": "1.mp4",
+            "MD5": "94ca86863e538c14dbf3509d3df55f63",
+            "date": "2023.6.26"
         },
         {
             "author": "Neon",
-            "file": "2023.6.26-1-2.mp4",
-            "MD5": "27f9293d4093f3f7f55435ceb8c279c7"
+            "file": "2.mp4",
+            "MD5": "27f9293d4093f3f7f55435ceb8c279c7",
+            "date": "2023.6.27"
         }
     ]
 }
